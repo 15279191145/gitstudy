@@ -1,1 +1,5 @@
-this is hm-computer
+this is hm-computer  
+
+
+#first test
+test commit and push after fetch from gitstudy
