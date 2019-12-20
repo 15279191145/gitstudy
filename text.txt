@@ -1,5 +1,4 @@
 this is hm-computer  
 
 
-#first test
-test commit and push after fetch from gitstudy
+delete some contents and add some contents
