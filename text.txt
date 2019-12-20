@@ -2,3 +2,7 @@ this is hm-computer
 
 
 delete some contents and add some contents
+
+
+
+i want to test reset tree-ish
