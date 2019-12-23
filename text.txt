@@ -7,4 +7,7 @@ delete some contents and add some contents
 
 i want to test reset tree-ish
 
-add one line and use diff 
+add one line and use diff what
+
+
+this line is to test add command
