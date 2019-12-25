@@ -1,1 +1,13 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+I will test git diff between local and origin
+=======
 i will test fetch on master
+>>>>>>> 78191d3597ad138e01acd295453fb67be2b4b6b6
+=======
+i will test fetch on master
+>>>>>>> 78191d3597ad138e01acd295453fb67be2b4b6b6
+=======
+i will test fetch on master
+>>>>>>> 78191d3597ad138e01acd295453fb67be2b4b6b6
